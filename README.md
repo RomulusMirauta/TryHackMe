@@ -1,8 +1,10 @@
+<!--
 <div align="center">
   <h1>TryHackMe</h1>
 </div>
 
 <br>
+-->
 
 <div align="center">
 <a href="https://tryhackme.com/">
